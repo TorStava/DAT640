@@ -1,0 +1,3 @@
+elasticsearch_host: "localhost:9200"
+tz: Europe/Oslo
+train: False
